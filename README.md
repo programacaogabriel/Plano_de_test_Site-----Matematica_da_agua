@@ -1,7 +1,7 @@
 
 # Plano de Teste
 
-** Site web “ Cores e Cores” **
+** Site web “ Matematica da Agua” **
 
 *versão 0.1x*
 
@@ -20,7 +20,7 @@ O Projeto é uma forma de auxiliar pessoas de ambas as idades a realizar a sua c
 
 * Verificar se o site está no ar.
 * Verificar se o campo de preenchimento está habilitado
-* Verificar se os botão está funcional
+* Verificar se o botão está funcional
 * Verificar o resultado esperado é apresentado
 
 Modelo de escrita de teste será a metodologia gherkin e modelo da Normas : 29119-3
