@@ -118,7 +118,7 @@ O teste automatizado não será feito
 Tipo de teste  	| Duração | data de início | data de término
 -------------------|---------|----------------|-----------------
 Regras de negócio |		| 04/08/2023	| 04/08/2023
-planejar teste 	|     	| 05/08/2020 | 07/08/2023
+planejar teste 	|     	| 05/08/2020    | 07/08/2023
 projetar teste 	|     	| 07/08/2023	| 07/08/2023
 implementar teste |     | 08/08/2023	| 08/08/2023 	
-executar teste 	|     	|09/08/2023 	| 
+executar teste 	|     	| 09/08/2023 	| 09/08/2023
