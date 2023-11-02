@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Teste01_RealizaroAcessoaoSite {
+public class Teste02_RealizaroCalculonoSite {
 
 	@Test
 	public void loginTest() {
@@ -31,6 +31,8 @@ public class Teste01_RealizaroAcessoaoSite {
 				
 		Assert.assertEquals(actualUral,expectedUrl, " Actual page url is not the same as expected");
 		System.out.println("Pagina está em funcionamento");
+		
+		
 		
 		
 //		Quit Page 
