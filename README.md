@@ -3,7 +3,7 @@
 
 ** Site web “ Matematica da Agua” **
 
-*versão 0.1x*
+*versão 0.2x*
 
 link:  https://programacaogabriel.github.io/Site---matematica_da_agua/
 
@@ -11,7 +11,7 @@ link:  https://programacaogabriel.github.io/Site---matematica_da_agua/
 
    Data	| Versão |	Descrição   | Autor(a)
 -----------|--------|----------------|-----------------
-04/08/2023 |  0.1   | Release inicial | Gabriel Martins da Silva
+27/10/2023 |  0.2   | Release 2 | Gabriel Martins da Silva
 
 
 ## 1 - Análise Inicial
@@ -108,9 +108,21 @@ Ambiente : Web, Firefox 116.0 64bits, Desktop
 Windows 10 Pro
 
 
-### 4.2 - Ferramenta de teste
+### 4.2 - Teste Automatizado
 
-O teste automatizado não será feito
+O Teste será feito com a linguagem Java
+
+
+### 4.3 - Ferramentas de teste
+
+As ferramentas são :
+* Maven  - https://maven.apache.org/download.cgi
+* TestNG - https://testng.org/doc/download.html
+* Selenium WebDriver - https://www.selenium.dev/documentation/webdriver/getting_started/install_library/
+* Spring Boot - https://spring.io/tools
+* mvn repository - https://mvnrepository.com/
+
+Para rodar a aplicação você tera que ter o Maven instalado e o Java
 
 
 ## 5 - Cronograma
@@ -122,3 +134,4 @@ planejar teste 	|     	| 05/08/2020    | 07/08/2023
 projetar teste 	|     	| 07/08/2023	| 07/08/2023
 implementar teste |     | 08/08/2023	| 08/08/2023 	
 executar teste 	|     	| 09/08/2023 	| 09/08/2023
+Implantar automação|		| 27/10/2023	| 30/10/2023
