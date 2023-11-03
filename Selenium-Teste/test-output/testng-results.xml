@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-02T08:32:30 BRT" name="Default suite" finished-at="2023-11-02T08:32:34 BRT" duration-ms="3955">
+  <suite started-at="2023-11-03T17:27:16 BRT" name="Default suite" finished-at="2023-11-03T17:27:23 BRT" duration-ms="7271">
     <groups>
     </groups>
-    <test started-at="2023-11-02T08:32:30 BRT" name="Default test" finished-at="2023-11-02T08:32:34 BRT" duration-ms="3955">
-      <class name="matematica_da_agua.Teste01_RealizaroAcessoaoSite">
-        <test-method signature="loginTest()[pri:0, instance:matematica_da_agua.Teste01_RealizaroAcessoaoSite@2ea41516]" started-at="2023-11-02T08:32:30 BRT" name="loginTest" finished-at="2023-11-02T08:32:34 BRT" duration-ms="3853" status="PASS">
+    <test started-at="2023-11-03T17:27:16 BRT" name="Default test" finished-at="2023-11-03T17:27:23 BRT" duration-ms="7271">
+      <class name="matematica_da_agua.Teste02_RealizaroCalculonoSite">
+        <test-method signature="loginTest()[pri:0, instance:matematica_da_agua.Teste02_RealizaroCalculonoSite@4803b726]" started-at="2023-11-03T17:27:16 BRT" name="loginTest" finished-at="2023-11-03T17:27:23 BRT" duration-ms="7133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-      </class> <!-- matematica_da_agua.Teste01_RealizaroAcessoaoSite -->
+      </class> <!-- matematica_da_agua.Teste02_RealizaroCalculonoSite -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
